@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rmp:home|Door43 (rmp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rmp|d43-rmp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rmp/archive/master.zip|d43-rmp.zip]]
+
+**Recent Changes**
+{{changes>ns = rmp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rmp|Ethnologue data]]
+
